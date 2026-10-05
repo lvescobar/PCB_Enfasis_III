@@ -14,7 +14,7 @@ Este repositorio contiene los archivos de diseño de hardware y el modelo 3D de 
 * `/Hardware`: Archivo del proyecto de la placa empaquetado (`.epro2`) exportado desde EasyEDA.
 * `/3D_Casing`: Archivos de la carcasa 3D (`.STL` para impresión directa y `.STEP` para modificaciones CAD).
 * `/Fabrication`: Archivos de producción de la PCB (Gerbers, BOM, CPL).
-* `/Docs`: Exportaciones del esquemático en formato PDF y renders 3D de la placa ensamblada.
+
 
 ## 🚀 Cómo visualizar el proyecto
 **Para la PCB:**
